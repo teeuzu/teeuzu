@@ -2,8 +2,8 @@
 ## Olá! Sou Matheus Auret, apaixonado por desenvolvimento, infraestrutura e gestão
 
 - 🔭 Working on: Intern on Technology
-- 😄 Pronouns: He/His
-- ⚡ Skills: Sociable, dynamic and decided
+- 😄 Pronomes: Ele/Dele
+- ⚡ Habilidades: Sociável, determinado e dinâmico
 
 <div>
   <a href="https://github.com/teeuzu">
